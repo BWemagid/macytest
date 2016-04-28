@@ -12,7 +12,7 @@
 
 
 
-<script src="Chart.js/dist/Chart.js"></script>
+<script src="Chart.js"></script>
 
 
 <body>
